@@ -6,4 +6,10 @@ http://localhost:8080/hello-world-bean
 Step3:-
 http://localhost:8080/hello-world/path-variable/amitesh
 
-Step4:-
+Step5:-
+same
+
+Step7:-
+same
+
+Step9:-
